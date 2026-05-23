@@ -1,0 +1,49 @@
+## Hyprlua-lol
+
+
+My Hyprland dotfiles for Arch GNU/Linux 
+
+
+## What's included
+
+* `foot/` (foot config)
+* `wofi/` (wofi config)
+* `hypr/` (hyprland config + other goodies)
+* `waybar/` (waybar config)
+
+## Goodies
+
+* `hypr/walls/*` (wallpapers)
+
+
+## Deps
+
+* wofi
+* foot
+* hyprland
+* swaybg
+* swayosd
+* neovim
+* GoMono Nerd Font
+* Waybar
+
+## Install
+
+```bash
+git clone https://github.com/kantiankant/Hyprlua-lol && cd Hyprlua-lol && rm README && cp -r * ~/.config && cd ~/
+```
+
+## Basic Binds and such
+
+
+* super + q: open foot
+* super + w: close 
+* super + shift + e: close hyprland
+* super + hjkl: swap focus to respective direction
+* super + shift + hjkl: swap window with any available window in the respective direction
+* super + space: wofi --show drun
+
+## License
+
+GPL-v3
+
