@@ -29,7 +29,7 @@ My Hyprland dotfiles for Arch GNU/Linux
 
 ## Install
 
-```bash
+```sh
 git clone https://github.com/kantiankant/Hyprlua-lol && cd Hyprlua-lol && rm README && cp -r * ~/.config && cd ~/
 ```
 
