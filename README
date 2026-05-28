@@ -1,7 +1,8 @@
 ## Hyprlua-lol
 
 
-My Hyprland dotfiles for Arch GNU/Linux 
+My Hyprland dotfiles for Arch GNU/Linux (updated because vaxry decided to swap to a Lua DSL and as a result,
+introduced MORE dependencies into Hyprland's already bloated codebase).
 
 
 ## What's included
